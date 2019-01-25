@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DTCC \n System Downtime Tracker</string>
+    <string name="title_home">
+    Welcome to DTCC \n  \n Depository Trust and Clearing Corporation \n\n
+    Securing Today Shaping Tomorrow \n\n
+    DTCC, established in 1973, was created to reduce costs \n
+    and provide clearing and settlement efficiencies by \n
+    immobilizing securities and making "book-entry" \n
+    changes to ownership of the securities. \n
+    DTC brings efficiency to the securities industry by \n
+    retaining custody of more than 1.3 million active \n
+    securities issues valued at US$54.2 trillion as of \n
+    7/31/2017, including securities issued in the US \n
+    and more than 131 countries and territories.
+
+
+    </string>
+    <string name="title_homepage">Home</string>
+    <string name="title_dashboard">DashBoard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="application">App</string>
+    <string name="to_val">To</string>
+    <string name="from_val">From</string>
+    <string name="app1">GTR</string>
+    <string name="weekly_start">Sat 10 PM EST</string>
+    <string name="weekly_end">Sun 6 AM EST</string>
+    <string name="weekly_start_itp">Sat 10 AM EST</string>
+    <string name="weekly_end_itp">Sat 2 PM EST</string>
+</resources>
